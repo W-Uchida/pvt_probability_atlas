@@ -6,7 +6,7 @@ This repository contains the Probability Atlas of the Paraventricular nucleus of
 
 The PVT is a crucial component of the limbic system, involved in mood and addiction-related processes. This atlas provides a probabilistic map of the PVT in standard MNI space, enabling other researchers to explore its structural and functional connectivity.
 
-![PVT Atlas Diagram]([Diagram1.pdf](Images/Diagram1.pdf))
+![PVT Atlas Diagram]([Diagram1.pdf](Images/Diagram1.png))
 
 ### Key Features
 - **Connectivity-Based Segmentation**: The PVT was identified using a k-means clustering approach based on structural connectivity patterns within the magnocellular subdivision of the mediodorsal thalamus.
