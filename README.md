@@ -3,17 +3,18 @@
 This repository contains the Probability Atlas of the **Paraventricular nucleus of the thalamus (PVT)**, created as part of our study titled "A structural connectivity-based segmentation approach to identify the human paraventricular nucleus of the thalamus." This atlas was developed based on structural connectivity patterns identified using diffusion MRI data and is intended for use in neuroimaging research, especially for studies focusing on mood regulation and addiction-related behaviors.
 
 
-If you use our probability atlas, we ask you to kindly cite the following papers:
-
-**In Preparation...**
-
-
-
 ## Overview
 
 The PVT is a crucial component of the limbic system, involved in mood and addiction-related processes. This atlas provides a probabilistic map of the PVT in standard MNI space, enabling other researchers to explore its structural and functional connectivity.
 
 ![PVT Atlas Diagram](Images/Diagram1.png)
+
+## Citation
+
+If you use our probability atlas, we ask you to kindly cite the following papers:
+
+**In Preparation...**
+
 
 ### Key Features
 - **Connectivity-Based Segmentation**: The PVT was identified using a k-means clustering approach based on structural connectivity patterns within the magnocellular subdivision of the mediodorsal thalamus.
