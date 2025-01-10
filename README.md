@@ -41,7 +41,9 @@ Here is an example code snippet in Python for loading the atlas using nibabel:
 import nibabel as nib
 
 # Load the PVT Probability Atlas
-pvt_atlas = nib.load("PVT_Probability_Atlas.nii.gz")
+pvt_atlas_lh = nib.load("PVT_lh_MNI.nii.gz")
+pvt_atlas_rh = nib.load("PVT_rh_MNI.nii.gz")
 
 # Display atlas dimensions
-print(pvt_atlas.shape)
+print(pvt_atlas_lh.shape)
+print(pvt_atlas_rh.shape)
