@@ -10,7 +10,7 @@ The PVT is a crucial component of the limbic system, involved in mood and addict
 ![PVT Atlas Diagram](Images/Diagram1.png)
 
 ### Key Features
-- **Connectivity-Based Segmentation**: The PVT was identified using a k-means clustering approach based on structural connectivity patterns within the magnocellular subdivision of the mediodorsal thalamus.
+- **Connectivity-Based Segmentation**: The PVT was identified using a k-means clustering approach based on structural connectivity patterns within the magnocellular subdivision of the mediodorsal thalamus defined by the probability atlas of thalamus implemented in the FreeSurfer.
 - **Validation**: The atlas was validated on two large cohorts, showing consistent PVT-specific connectivity patterns with the nucleus accumbens, amygdala, and bed nucleus of the stria terminalis (BNST).
 
 ![Workflow Diagram](atlas_diagram.png "Diagram of PVT Atlas")
