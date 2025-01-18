@@ -29,7 +29,7 @@ If you use our probability atlas, we ask you to kindly cite the following papers
 
 ## Usage
 
-1. **Download the Atlas**: Clone this repository or download the `PVT_lh_MNI.nii.gz` or `PVT_rh_MNI.nii.gz` files in Atlas directly.
+1. **Download the Atlas**: Clone this repository or download the `PVT_lh_MNI.nii.gz` or `PVT_rh_MNI.nii.gz` files in `Atlas` directly.
 2. **Load the Atlas**: The atlas can be loaded in most neuroimaging software (e.g., FSL, SPM, FreeSurfer).
 3. **Analysis**: Use the atlas to extract structural and functional connectivity data for the PVT or to study its associations with psychiatric and addiction-related variables.
 
