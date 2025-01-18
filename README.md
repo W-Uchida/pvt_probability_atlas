@@ -23,13 +23,13 @@ If you use our probability atlas, we ask you to kindly cite the following papers
 
 ## Files
 
-- `PVT_Probability_Atlas.nii.gz`: The probabilistic atlas of the PVT in MNI space.
+- `PVT_lh{rh}_MNI.nii.gz`: The probabilistic atlas of the PVT in the left (lh) or right (rh) hemisphere in MNI space.
 - `LICENSE`: The license information for this repository.
 - `README.md`: This file, providing an overview of the atlas and instructions for use.
 
 ## Usage
 
-1. **Download the Atlas**: Clone this repository or download the `PVT_Probability_Atlas.nii.gz` file directly.
+1. **Download the Atlas**: Clone this repository or download the `PVT_lh_MNI.nii.gz` or `PVT_rh_MNI.nii.gz` files in Atlas directly.
 2. **Load the Atlas**: The atlas can be loaded in most neuroimaging software (e.g., FSL, SPM, FreeSurfer).
 3. **Analysis**: Use the atlas to extract structural and functional connectivity data for the PVT or to study its associations with psychiatric and addiction-related variables.
 
