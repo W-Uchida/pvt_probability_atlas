@@ -23,7 +23,7 @@ If you use our probability atlas, we ask you to kindly cite the following papers
 
 ## Files
 
-- `PVT_lh{rh}_MNI.nii.gz`: The probabilistic atlas of the PVT in the left (lh) or right (rh) hemisphere in MNI space.
+- `Right{Left}_PVT_MNI.nii.gz`: The probabilistic atlas of the right and left PVT in the MNI template space.
 - `LICENSE`: The license information for this repository.
 - `README.md`: This file, providing an overview of the atlas and instructions for use.
 
@@ -41,8 +41,8 @@ Here is an example code snippet in Python for loading the atlas using nibabel:
 import nibabel as nib
 
 # Load the PVT Probability Atlas
-pvt_atlas_lh = nib.load("PVT_lh_MNI.nii.gz")
-pvt_atlas_rh = nib.load("PVT_rh_MNI.nii.gz")
+pvt_atlas_lh = nib.load("Left_PVT_MNI.nii.gz")
+pvt_atlas_rh = nib.load("Right_PVT_MNI.nii.gz")
 
 # Display atlas dimensions
 print(pvt_atlas_lh.shape)
